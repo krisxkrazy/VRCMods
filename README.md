@@ -1,6 +1,6 @@
-This repository contains mods for MelonLoader. some of these mods were originally made by [], and will be improved upon by me. [] mod repository is here [] join my modding discord [].
+This repository contains mods for MelonLoader. some of these mods were originally made by knah, and will be improved upon by me. knah's mod repository is here [] join my modding discord [].
 
-Looking for my VRChat mods? [Look here!](https://github.com/knah/ML-UniversalMods)
+Looking for my other mods? [Look here!](https://github.com/krisxkrazy/ML-UniversalMods)
 
 # **Don't want to install mods manually? [Check out the VRCMelonAssistant, an automatic mod installer!](https://github.com/knah/VRCMelonAssistant)**
 
