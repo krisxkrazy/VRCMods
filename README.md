@@ -1,4 +1,4 @@
-This repository contains mods for MelonLoader. some of these mods were originally made by knah, and will be improved upon by me. knah's mod repository is here [] join my modding discord [].
+This repository contains mods for MelonLoader. some of these mods were originally made by knah, and will be improved upon by me. knah's mod repository is here [] join my modding discord []. These mods are tested by me, but all the info below still applies even if I did personally reccomend it. 
 
 Looking for my other mods? [Look here!](https://github.com/krisxkrazy/ML-UniversalMods)
 
